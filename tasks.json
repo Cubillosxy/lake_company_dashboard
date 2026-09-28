@@ -1,7 +1,7 @@
 [
   { "id": "LK-1", "title": "Definir Naming de la agencia", "status": "done", "assignee": "Jeffer", "epic": "Branding & Legal" },
   { "id": "LK-2", "title": "Diseñar Logo y paleta de colores", "status": "done", "assignee": "Jeffer", "epic": "Branding & Legal" },
-  { "id": "LK-3", "title": "Validar homonimia en RUES", "status": "todo", "assignee": "Unassigned", "epic": "Branding & Legal" },
+  { "id": "LK-3", "title": "Validar homonimia en RUES", "status": "done", "assignee": "Edwin", "epic": "Branding & Legal" },
   { "id": "LK-27", "title": "Investigar costos y tiempos de constitución formal", "status": "done", "assignee": "Edwin", "epic": "Branding & Legal" },
   { "id": "LK-28", "title": "Investigar mínimo de personas para conformar SAS en Colombia", "status": "done", "assignee": "Edwin", "epic": "Branding & Legal" },
   { "id": "LK-6", "title": "Comprar Dominio Web", "status": "todo", "assignee": "Unassigned", "epic": "Infraestructura" },
